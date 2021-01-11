@@ -5,7 +5,7 @@
 <h4>Gayet basit, internet sitesinden gidip sorgu yapabilirsiniz. (Şuan bakımda, ufak hatalara çözüldükten sonra yeniden yayınlanacaktır.)</h4>
 <br>
 InsDataGram projesinin açık kaynak kodlu hali.
-
+<br>
 **Demo:**
 
 ![image](https://user-images.githubusercontent.com/64362298/104167426-560e0700-540d-11eb-9d91-d52b59ad7945.png)
