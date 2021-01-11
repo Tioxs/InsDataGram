@@ -4,6 +4,9 @@
 <h2>Nasıl kullanılır?</h2>
 <h4>Gayet basit, internet sitesinden gidip sorgu yapabilirsiniz. (Şuan bakımda, ufak hatalara çözüldükten sonra yeniden yayınlanacaktır.)</h4>
 <br>
+!Projeyi çok yakında cURL ile baştan yazacağım.
+<br>
+
 InsDataGram projesinin açık kaynak kodlu hali.
 <br><br/>
 <b>Demo:</b>
